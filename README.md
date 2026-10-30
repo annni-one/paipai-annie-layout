@@ -16,7 +16,7 @@
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="art-collage-3_4-floating-paper.png" alt="随机叠放" width="100%">
+      <img src="art-collage-3_4-floating-paper.png.png" alt="随机叠放" width="100%">
       <br><b>随机叠放</b> · 纸张层次与阴影，卡片错落堆叠
     </td>
     <td align="center" width="50%">
