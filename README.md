@@ -16,21 +16,21 @@
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="images/showcase/random-paper.png" alt="随机叠放" width="100%">
+      <img src="art-collage-3_4-floating-paper.png" alt="随机叠放" width="100%">
       <br><b>随机叠放</b> · 纸张层次与阴影，卡片错落堆叠
     </td>
     <td align="center" width="50%">
-      <img src="images/showcase/left-right.png" alt="左右排布" width="100%">
+      <img src="art-collage-3_4-poster-split.png" alt="左右排布" width="100%">
       <br><b>左右排布</b> · 双色切面，左文右图分栏
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
-      <img src="images/showcase/dreamy-bg.png" alt="虚幻背景" width="100%">
+      <img src="art-collage-3_4-nature-campaign.png" alt="虚幻背景" width="100%">
       <br><b>虚幻背景</b> · 朦胧虚化底色，图文漂浮其上
     </td>
     <td align="center" width="50%">
-      <img src="images/showcase/cutout.png" alt="剪切拼贴" width="100%">
+      <img src="art-collage-3_4-orchard-cutout.png" alt="剪切拼贴" width="100%">
       <br><b>剪切拼贴</b> · 中主图加两侧小图，剪贴式拼合
     </td>
   </tr>
